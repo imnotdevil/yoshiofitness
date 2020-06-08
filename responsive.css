@@ -1,0 +1,162 @@
+@media (max-width: 670px) {
+    .header-logo{
+        font-size: 6px;
+    }
+    .explanation{
+        height: 80px;
+        padding-top: 60px;
+        padding-bottom: 90px;
+        margin-bottom: 5px;
+    }
+    .explanation h1{
+        font-size: 9px;
+    }
+    .explanation h2{
+        font-size: 12px;
+    }
+    .explanation p{
+        font-size: 7px;
+    }
+    .service1 h1{
+        margin-right: 100px;
+        margin-left: 100px;
+        font-size: 18px;
+    }
+    .fitting{
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .fitting p{
+      margin-left: 65px;
+      margin-right: 50px;
+    }
+    .refit{
+        width: 100%;
+        margin-top: 15px;
+    }
+    .refit p{
+        margin-left: 50px;
+        margin-right: 40px;
+    }
+    .service2 h1{
+        font-size: 25px;
+        margin-top: 380px;
+        border-bottom: medium solid;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .service2 p{
+        font-size: 10.3px;
+        margin-left: 0.5px;
+        margin-right: 0.5px;
+        margin-top: 40px;
+    }
+    .brake{
+        width:100%;
+    }
+    .brake p{
+        margin-top: 120px;
+        margin-left: 45px;
+        margin-right: 45px;
+        font-size: 25px;
+    }
+    .wayer{
+        width: 100%;
+        margin-top: 370px;
+    }
+    .wayer p{
+        margin-left: 50px;
+        margin-right: 10px;
+        font-size: 38px;
+    }
+    .ghoste{
+        width:1%;
+         height:1%;
+         display: flex;
+      }
+    .handle{
+        margin-top: 10px;
+        width: 100%;
+    }
+    .handle p{
+        margin-left: 60px;
+        margin-right: 10px;
+        font-size: 30px;
+    }
+    .overhole{
+        margin-top: 410px;
+        width: 100%;
+    }
+    .overhole p{
+        margin-left: 10px;
+        margin-right: 5px;
+        font-size: 30px;
+    }
+    .wash{
+        margin: 10px;
+        width: 100%;
+        margin-right: 0px;
+    }
+    .wash p{
+        margin-left: 80px;
+        margin-right:80px;
+        font-size: 40px;
+    }
+    .service5 h1{
+        margin-top: 930px;
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+    .service5 h2{
+        width: 100%;
+        margin-top: 19px;
+    }
+    .footer-about{
+        margin-top: 1050px;
+    }
+    .overhole-fee{
+        margin-top: 80px;
+    }
+    .overhole-fee p{
+        font-size: 13px;
+    }
+    .overhole-fee h2{
+        margin-top: 80px;
+    }
+    .wire-fee h1{
+        font-size: 27px;
+    }
+    .wire-fee p{
+        font-size: 13px;
+    }
+    .wire-fee h2{
+        margin-top: 100px;
+    }
+    .handle-fee p{
+        font-size: 13px;
+    }
+    .handle-fee{
+    }
+    .handle-fee h2{
+        margin-top: 100px;
+    }
+    .brake-fee p{
+        font-size: 17px;
+    }
+    .brake-fee h2{
+        margin-top: 120px;
+    }
+    .fitting-fee{
+        font-size: 13px;
+    }
+    .fitting-fee h2{
+        font-size: 22px;
+        margin-top: 90px;
+    }
+    .wash-fee h1{
+        margin-top: 10px;
+    }
+    .wash-fee h2{
+        margin-top: 80px;
+    }
+}
