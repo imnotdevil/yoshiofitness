@@ -1,4 +1,7 @@
 @media (max-width: 670px) {
+        body{
+        background-attachment: fixed;
+    }
     .header-logo{
         font-size: 6px;
     }
@@ -65,7 +68,7 @@
         margin-top: 370px;
     }
     .wayer p{
-        margin-left: 50px;
+        margin-left: 10px;
         margin-right: 10px;
         font-size: 38px;
     }
