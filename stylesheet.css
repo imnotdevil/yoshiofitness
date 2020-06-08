@@ -1,0 +1,343 @@
+body {
+    margin: 0;
+    font-family: "Hiragino Kaku Gothic ProN";
+    background-image: url(http://art5.photozou.jp/bin/photo/265706570/624.v1591554280.bin);
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  li{
+    list-style: none;
+  }
+  .container {
+    padding: 0 15px;
+    margin: 0 auto;
+  }
+  header{
+    height: 80px;
+    width: 100%;
+    top:0;
+    position: fixed;
+  }
+  .header-logo{
+    width: 100%;
+      text-align: center;
+      font-size: 9px;
+      color: black;
+  }
+  .explanation{
+    width: 100%;
+    padding:5px 10px;
+    height:210px;
+    margin-top: 110px;
+    margin-bottom: 20px;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    margin-left: -10px;
+    text-align: center;
+    color: black;
+    background-color: rgba(255, 255, 255, 0.9);
+  }
+  .explanation h1{
+    text-align: center;
+    width: 100%;
+    height: 20%;
+    font-size: 25px;
+  }
+  .explanation h2{
+    width: 100%;
+    height: 15%;
+    font-size: 20px;
+  }
+  .explanation p{
+    width: 100%;
+    height: 20%;
+    font-size: 15px;
+  }
+  .service1{
+      height:400px;
+      padding:5px 10px;
+      margin-bottom: 150px;
+      text-align: center;
+  }
+  .service1 h1{
+    border-bottom: medium solid;
+    margin-left: 460px;
+    margin-right: 460px;
+    margin-bottom: 80px;
+    margin-top: 50px;
+  }
+  .fitting{
+     width:43%;
+    height:100%; 
+    background-image: url(http://art5.photozou.jp/bin/photo/265699655/624.v1591466880.bin);
+    display:inline-block;
+    background-size: cover;
+    object-fit: cover;
+  }
+  .fitting p{
+      margin-top: 180px;
+      background-color: rgba(224, 228, 231, 0.4);
+      transition:all 0.5s;
+      font-size: 28px;
+      border: ridge thin;
+      margin-left: 130px;
+      margin-right: 130px;
+      color: white;
+  }
+  .refit{
+    width:43%;
+    height:75%;
+   background-image: url(http://art5.photozou.jp/bin/photo/265699431/624.v1591459309.bin);
+   display:inline-block;
+   vertical-align: bottom;
+   background-size: cover;
+  }
+  .refit p{
+    margin-top: 110px;
+    background-color: rgba(225, 225, 225, 0.4);
+      transition:all 0.5s;
+      font-size: 28px;
+      border: ridge thin;
+      margin-left: 160px;
+      margin-right: 160px;
+      color: white;
+  }
+  .service2{
+    height:280px;
+    padding:5px 10px;
+    text-align: center;
+  }
+  .service2 h1{
+    margin-top: 140px;
+    border-bottom: medium solid;
+    margin-left: 330px;
+    margin-right: 330px;
+    margin-bottom: 10px;
+  }
+  .service2 p{
+    margin-left: 120px;
+    margin-right: 120px;
+    background-color: rgb(250, 250, 250,0.9);
+    margin-bottom: 120px;
+  }
+  .brake{
+    width:70%;
+    height:100%; 
+    background-image: url(http://art5.photozou.jp/bin/photo/265699435/624.v1591459481.bin);
+    display:inline-block;
+    background-size: cover;
+  }
+  .brake p{
+    margin-top: 115px;
+    color: white;
+    font-size: 28px;
+    background-color: rgba(225, 225, 225, 0.4);
+    transition:all 0.5s;
+    border: ridge thin;
+    margin-left: 200px;
+    margin-right: 200px;
+  }
+  .service3{
+    height:550px;
+    padding:5px 10px;
+    text-align: center;
+    margin-top: 280px;
+  }
+  .wayer{
+    width:60%;
+    height:50%; 
+    background-image: url(http://art5.photozou.jp/bin/photo/265699447/624.v1591459989.bin);
+    display:inline-block;
+    float: left;
+    background-size: cover;
+    margin-top: 120px;
+  }
+  .wayer p{
+    margin-top: 110px;
+    color: white;
+    font-size: 28px;
+    background-color: rgba(225, 225, 225, 0.4);
+    transition:all 0.5s;
+    border: ridge thin;
+    margin-left: 220px;
+    margin-right: 220px;
+  }
+.ghoste{
+  width:38%;
+    height:30%;
+   display:inline-block;
+   vertical-align: top;
+}
+.handle{
+  width:38%;
+    height:70%; 
+    background-image: url(http://art5.photozou.jp/bin/photo/265699436/624.v1591459604.bin);
+    display: inline-block;
+    background-size: cover;
+}
+.handle p{
+  margin-top: 140px;
+    color: white;
+    font-size: 28px;
+    background-color: rgba(225, 225, 225, 0.4);
+    transition:all 0.5s;
+    border: ridge thin;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+.service4{
+  height:350px;
+  padding:5px 10px;
+  text-align: center;
+}
+.overhole{
+  width:38%;
+  height:100%; 
+  background-image: url(http://art5.photozou.jp/bin/photo/265699448/624.v1591460109.bin);
+  display:inline-block;
+  background-size: cover;
+}
+.overhole p{
+  margin-top: 140px;
+  color: white;
+  font-size: 28px;
+  background-color: rgba(225, 225, 225, 0.4);
+  transition:all 0.5s;
+  border: ridge thin;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.wash{
+  width:38%;
+  height:100%; 
+  background-image: url(http://art5.photozou.jp/bin/photo/265699441/624.v1591459690.bin);
+  display:inline-block;
+  background-size: cover;
+}
+.wash p{
+  color: white;
+  font-size: 28px;
+  margin-top: 140px;
+  background-color: rgba(225, 225, 225, 0.4);
+  transition:all 0.5s;
+  border: ridge thin;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+.service5{
+  height:470px;
+  padding:5px 10px;
+  text-align: center;
+}
+.service5 h1{
+  border-bottom: medium solid;
+  margin-left: 400px;
+  margin-right: 400px;
+  margin-bottom: 70px;
+  margin-top: 100px;
+}
+.newarrivals{
+  width: 100%;
+  height: 80%;
+  background-color: rgba(255, 255, 255, 0.9);
+}
+.newarrivals h2{
+  color: black;
+  font-size: 28px;
+}
+.items{
+  width: 100%;
+  height: 30%;
+}
+.items p{
+  position: relative;
+  display: inline-block;
+  font-weight: bold;
+  padding: 0.25em 0.5em;
+  text-decoration: none;
+  color: #FFF;
+  background: #51bbc9;
+  transition: .4s;
+  padding: 10px;
+}
+.footer-about{
+  height:45px;
+  padding:5px 10px;
+  margin-top: 250px;
+}
+.sns{
+  width:43%;
+  height:100%; 
+  font-size: 1.3em;
+  text-align: right;
+  float: right;
+}
+.fa-instagram{
+  padding-right: 10px;
+  padding-left: 10px;
+  color: #c13584;
+}
+.fa-twitter{
+  padding-right: 10px;
+  padding-left: 10px;
+  color: #1DA1F2;
+}
+.fa-facebook{
+  padding-right: 10px;
+  padding-left: 10px;
+  color: #1877f2;
+}
+.contact{
+  height:100%;
+  font-size: 7px;
+  float: left;
+}
+.contact h1{
+  color: white;
+}
+.fitting-fee{
+  height:470px;
+  padding:5px 10px;
+  text-align: center;
+  margin-top: 130px;
+}
+.refit-fee{
+  height:470px;
+  padding:5px 10px;
+  text-align: center;
+  margin-top: 130px;
+}
+.brake-fee{
+  height:470px;
+  padding:5px 10px;
+  text-align: center;
+  margin-top: 130px;
+}
+.wire-fee{
+  height:470px;
+  padding:5px 10px;
+  text-align: center;
+  margin-top: 130px;
+}
+.handle-fee{
+  height:470px;
+  padding:5px 10px;
+  text-align: center;
+  margin-top: 130px;
+}
+.overhole-fee{
+  height:470px;
+  padding:5px 10px;
+  text-align: center;
+  margin-top: 130px;
+}
+.wash-fee{
+  height:470px;
+  padding:5px 10px;
+  text-align: center;
+  margin-top: 130px;
+}
